@@ -11,3 +11,8 @@ function sum (x1, x2) {
 function goodbye(){
     console.log("Goodby function")
 }
+
+
+function new_func() {
+    // 
+}
