@@ -14,5 +14,6 @@ function goodbye(){
 
 
 function new_func() {
-    // 
+    // welcome to new_func
+    return 1;
 }
